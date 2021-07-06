@@ -47,6 +47,12 @@ section{
     padding-left: 10px;
 }
 
+#recipies-id{
+    margin:auto;
+    height: 159px;
+    width: 706px;
+}
+
 
 .intro-div img{
     max-width: 100%; 
@@ -57,13 +63,23 @@ h1{
     font-size: 50px;
 }
 
+#reci{
+    text-align: center;
+}
+
+
 span{
     color: orange;
 }
 
 p{
-    text-align: justify;
     color:grey;
+    font-style: normal;
+}
+
+
+#reci-p{
+    text-align: center;
 }
 
 #contact-info{
