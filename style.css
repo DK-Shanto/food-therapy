@@ -49,7 +49,7 @@ section{
 
 #recipies-id{
     margin:auto;
-    height: 159px;
+    height: 120px;
     width: 706px;
 }
 
@@ -98,4 +98,50 @@ p{
     color: white;
     border-radius: 20px;
     margin: 10px;
+}
+
+#item-sec{
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+.item{
+    width: 377px;
+    height: 475px;
+    padding: 20px;
+    margin: 20px;
+    border: 7px;
+    box-shadow: 0px 0px 40px rgb(0, 0,0,0.15);
+    border-radius: 30px;
+}
+
+.item-img{
+    width: 337px;
+    height: 256px;
+}
+
+.item-p{
+     width: 337px;
+}
+
+.item-h2{
+    width: 337px;
+    font-weight: bolder;
+}
+
+.recipies-div{
+    width: 706px;
+    height: 159px;
+}
+
+.footer{
+    height: 180px;
+    background-color: black;
+    padding-top: 10px;
+}
+
+
+#footer-h2{
+    color:grey;
+    text-align: center;
 }
